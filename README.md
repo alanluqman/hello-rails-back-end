@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 hello-rails-react <a name="about-project"></a>
+# 📖 hello-rails-BACKEND <a name="about-project"></a>
 
-This Generate random greeting messages , built with rails-react.
+This is an API end point that provide several greeting messages.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,7 +38,6 @@ This Generate random greeting messages , built with rails-react.
   <summary>Framework</summary>
   <ul>
     <li>Ruby on Rails</li>
-    <li>React-Redux</li>
   </ul>
 </details>
 
@@ -53,15 +52,15 @@ This Generate random greeting messages , built with rails-react.
 
 ### Key Features <a name="key-features"></a>
 
-- **Generate random greeting message**
+- **Provide a bunch of greeting messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Front-End <a name="live-demo"></a>
 
-- [Coming Soon]()
+- [Front-End](https://github.com/alanluqman/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,6 +69,12 @@ This Generate random greeting messages , built with rails-react.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+### Clone both front-end and back-end projects:
+
+- [Front-End](https://github.com/alanluqman/hello-react-front-end)
+- [Back-End](https://github.com/alanluqman/hello-react-back-end)
+
 
 ### Prerequisites
 
@@ -92,7 +97,7 @@ Clone this repository to your desired folder
 
 ```sh
   cd my-folder
-  git clone https://github.com/alanluqman/hello-rails-react.git
+  git clone https://github.com/alanluqman/hello-rails-back-end.git
 ```
 
 
@@ -115,7 +120,6 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  npm run build
   rails server
 ```
 
